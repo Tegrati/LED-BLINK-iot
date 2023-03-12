@@ -6,11 +6,11 @@ LED Controlling over IOT
 
 Components Required
 
-Hardware
-NodeMCU ESP8266
-LED
-Jumper wires
+Hardware:
+NodeMCU ESP8266,
+LED,
+Jumper wires.
 
-Software
-Arduino IDE
-Blynk 2.0 webpage
+Software:
+Arduino IDE,
+Blynk 2.0 webpage.
